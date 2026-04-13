@@ -7,7 +7,7 @@ An automated weekly email system that curates personalized tech content includin
 - **GitHub Repositories** - Trending repos in your tech stack
 - **Project of the Week** - Hands-on project suggestions with tech stack breakdown
 - **Certification Opportunities** - Latest certifications with cost transparency
-- **Cost Analysis** - Clear indication if projects are 100% FREE or paid
+- **Cost Analysis** - Clear indication if projects used FREE resources or paid
  
 ## Tech Focus Areas
  
