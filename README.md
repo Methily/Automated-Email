@@ -105,9 +105,11 @@ Change Tech Topics
 Edit send_tech_update.py and modify the TOPICS dictionary:
 TOPICS = {
     'your_topic': ['keyword1', 'keyword2'],
+     }
     # Add your custom topics here
-    }
-📊 Project Structure
+    
+Project Structure
+
 tech-email-agent/
 ├── .github/
 │   └── workflows/
