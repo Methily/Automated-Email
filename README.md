@@ -1,4 +1,6 @@
-An automated weekly email system that curates personalized tech content including articles, GitHub repositories, YouTube videos, project suggestions, and certification opportunities - delivered straight to your inbox every Thursday at 7 PM.
+An automated weekly email system that curates personalized tech content including articles, GitHub repositories, YouTube videos, project suggestions, and certification opportunities - delivered straight to your inbox every Thursday at 7 PM. 
+so a little update on this project- its working...!! yes i thought i would only get 1 email once i run this through, but BUT i m getting emails every week. and i mean i did not think it would really work but it did. so yeah, its a really good project i believe. if you have any kind of suggestions please let me know!
+
  
 ##  Features
  
@@ -135,14 +137,9 @@ Contact
  If you find this useful, please star the repository!
 ---
  
-### **Step 3: Customize the README**
- 
-Replace these parts with YOUR information:
-- "YOUR-USERNAME" → Your GitHub username
-- "Your Name" → Your actual name
-- Add your LinkedIn or contact info at the bottom
- 
----
+## this is how the email looks like - 
+<img width="1123" height="665" alt="Screenshot 2026-05-02 133008" src="https://github.com/user-attachments/assets/f9e68920-0331-492b-b4ce-576a2c6138db" />
+
  
 ### **Step 4: Push README to GitHub**
  
